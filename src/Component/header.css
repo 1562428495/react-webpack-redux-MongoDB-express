@@ -1,0 +1,11 @@
+.blogName {
+  padding: 0.5%;
+  font-size: 2rem;
+  font-weight: bold;
+  float: left;
+}
+.userInfo {
+  padding-bottom: 1%;
+  font-size: small;
+  float: right;
+}

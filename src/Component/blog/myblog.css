@@ -1,0 +1,30 @@
+.theme{
+    margin-top:1rem;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia,Times;
+    font-weight: 700;
+}
+
+.affiliated{
+    margin: 1rem;
+    text-align: center;
+}
+
+.left{
+    font-size: small;
+    font-style: italic;
+    color: blue;
+
+}
+
+.right{
+    font-size: small;
+    font-style: normal;
+    color: green;
+}
+
+.content{
+    font-size: 1rem;
+    line-height: 1.8rem;
+}
